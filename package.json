@@ -11,6 +11,6 @@
     "tailwindcss": "^2.2.14"
   },
   "scripts": {
-    "build": "postcss styles.css -o src/styles.css"
+    "build": "postcss styles.css -o styles.css"
   }
 }
